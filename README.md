@@ -1,5 +1,5 @@
 hello 
-im New developer
+im developer
 😆
 😆
 😆
